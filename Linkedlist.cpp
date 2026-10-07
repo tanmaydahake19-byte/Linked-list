@@ -59,5 +59,6 @@ int main()
     l1.add(2);
     l1.add(4);
     l1.add(45);
+    l1.add(23);
     l1.display();
 }
